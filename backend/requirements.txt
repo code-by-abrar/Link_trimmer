@@ -1,0 +1,11 @@
+fastapi[all]
+uvicorn
+sqlalchemy
+psycopg2-binary
+pydantic-settings
+validators
+python-dotenv
+redis
+celery
+clickhouse-connect
+geoip2
